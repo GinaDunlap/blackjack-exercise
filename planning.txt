@@ -1,0 +1,23 @@
+1. Blackjack Objective - The goal of the game is to try to obtain a score as high as possible in order to have a higher value than the dealer without going over 21 .
+2. Following each hand, the player will be given the options to play again, review the objective, or quit the game.
+3. Game Rules
+4. Option to play game (yes or no)
+5. Welcome page/screen
+6. Blackjack table
+7. Background for blackjack table
+8. Images for card face
+9. Images for card back
+10. Function to draw card
+11. Function to display card value
+12. Function to display user card(s) value
+13. Function to display dealer card(s) value
+14. Function for current and new card(s) value
+15. Current Hand
+17. Function to add current cards value
+16. New card request (Hit)
+17. Ace card value: 1 or 11? if both, how? 
+18. 'You Win!' Message
+19. 'Dealer Wins!' Message
+20. 'Play Again?' Message with yes/no option
+21. 'Thanks for Playing Blackjack', then return to Welcome screen
+
